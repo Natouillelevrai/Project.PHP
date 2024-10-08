@@ -26,8 +26,8 @@
 
             <?php
             $scandir = scandir("project");
-            foreach($scandir as $fichier){
-                if($fichier !== '.' && $fichier !== '..') {
+            foreach ($scandir as $fichier) {
+                if ($fichier !== '.' && $fichier !== '..' && is_dir("project/$fichier")) {
                     echo "<div class='project'>";
                     echo "<div><h2>$fichier</h2></div>";
                     echo "<div class='button'><a href='project/$fichier'>Acceder</a></div>";
@@ -35,7 +35,7 @@
                 }
             }
             ?>
-            
+
         </div>
     </main>
 

@@ -1,4 +1,4 @@
-# Project.PHP
+# Projet.PHP
 Une petite interface utilisateur pour gérer vos projets PHP
 
 ### Installation :
