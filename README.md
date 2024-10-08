@@ -1,12 +1,12 @@
-# Project.PHP
-a little user interface to manage your PHP projects
+# Projet.PHP
+Une petite interface utilisateur pour gérer vos projets PHP
 
-### Setup : 
- 1. make sure you have XAMPP installed on your computer. If not, please install it via [this link](https://www.apachefriends.org/fr/index.html),
+### Installation :
+1. Assurez-vous d'avoir XAMPP installé sur votre ordinateur. Si ce n'est pas le cas, veuillez l'installer via [ce lien](https://www.apachefriends.org/fr/index.html).
 
- 2. copy all the file from this repo, to your htdocs folder,
+2. Copiez tous les fichiers de ce dépôt dans votre dossier `htdocs`.
 
- 3. DONE !!! Put your projects folders into the "project".
+3. C'est tout ! Mettez vos dossiers de projets dans le dossier "project".
 
- ### Credits : 
-Made by Natouille : [Youtube](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.youtube.com/channel/UCFuMLgw1UpC7BbtYqJzG7Wg&ved=2ahUKEwiC-4yahv-IAxWtUKQEHVCTIZ0QFnoECBUQAQ&usg=AOvVaw0NQtpw9WV7OLLoTwWb-mGq), [Twitch](https://www.twitch.tv/natouillelevrai)
+### Crédits :
+Réalisé par Natouille : [Youtube](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.youtube.com/channel/UCFuMLgw1UpC7BbtYqJzG7Wg&ved=2ahUKEwiC-4yahv-IAxWtUKQEHVCTIZ0QFnoECBUQAQ&usg=AOvVaw0NQtpw9WV7OLLoTwWb-mGq), [Twitch](https://www.twitch.tv/natouillelevrai)
