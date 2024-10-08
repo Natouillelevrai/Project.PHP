@@ -1,0 +1,88 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+
+    color: white;
+    background-color: #1f1f1f;
+}
+
+header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+header * {
+    margin: 5px;
+}
+
+a {
+    color: white;
+
+    font-weight: 700;
+}
+
+h1, img {
+    margin: 0;
+}
+
+#titre {
+    display: flex;
+    
+}
+
+.logo-php {
+    width: 75px;
+}
+
+main {
+    width: 100%;
+
+    display: flex;
+    justify-content: center;
+}
+
+.projects-list {
+    width: 95%;
+    height: 100%;
+
+    margin: 25px;
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.project {
+    width: 20%;
+    height: 20vh;
+
+    min-width: 150px;
+    min-height: 100px;
+
+    margin: 25px;
+
+    background-color: #3b3b3b;
+
+    text-align: center;
+
+    border: solid 2px white;
+    border-radius: 15px;
+}
+
+.project div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.project div:first-of-type {
+    height: 70%;
+}
+
+.project div:last-of-type {
+    height: 30%;
+}
+
+.button {
+    background-color: ;
+}
