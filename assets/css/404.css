@@ -11,7 +11,7 @@ body {
     justify-content: center;
 
     background-size: cover;
-    background-repeat: none;
+    background-repeat: no-repeat;
 
     user-select: none;
 }
