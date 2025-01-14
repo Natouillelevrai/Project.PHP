@@ -70,10 +70,14 @@
                         echo "<a href='" . htmlspecialchars($site['url']) . "'>Acceder</a>";
                         echo "</div>";
                     }
-                } else {
+                } 
+                
+                else {
                     echo "<p>Aucun site enregistré.</p>";
                 }
-            } else {
+            } 
+            
+            else {
                 echo "<p>Le fichier de données n'existe pas.</p>";
             }
 

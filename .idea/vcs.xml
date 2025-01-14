@@ -2,5 +2,9 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/project/Dodge Clicker" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/project/poce vert/EvalA2_1-front_LesPoucesVerts" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/project/tarvail visio/Projet_contact_2024" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/project/tarvail visio/Projet_pois_gourmand_2024" vcs="Git" />
   </component>
 </project>
